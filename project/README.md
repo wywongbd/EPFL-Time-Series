@@ -37,7 +37,7 @@ In this project, our chosen dataset is a record of the daily maximum air tempera
 <figure align="center">
 	<p align="center">
 	  <img src="https://github.com/wywongbd/EPFL-Time-Series/blob/master/project/plots/modeling/ARMA/forecasting/ar2-forecasting-recovered-360days-with-obs.jpg" align="middle">
-	  <figcaption> The predicted maximum daily temperature as function of time (day). This plot contains 500 forecasted values. We observe that most of the future measured data are contained within the forecasted 95% confidence interval. Additionally, the conﬁdence band is bigger in summer (high temperature) and smaller in winter (low temperature), which is consistent with our initial observation that temperature varies more erratically in summer than in winter.</figcaption>
+	  <figcaption> The predicted maximum daily temperature as function of time (day). This plot contains 360 forecasted values. We observe that most of the future measured data are contained within the forecasted 95% confidence interval. Additionally, the conﬁdence band is bigger in summer (high temperature) and smaller in winter (low temperature), which is consistent with our initial observation that temperature varies more erratically in summer than in winter.</figcaption>
 	</p>
 </figure>
   
