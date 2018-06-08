@@ -29,7 +29,7 @@ In this project, our chosen dataset is a record of the daily maximum air tempera
 <figure align="center">
 	<p align="center">
 	  <img src="https://github.com/wywongbd/EPFL-Time-Series/blob/master/project/plots/normalization/Normalization-before-and-after.jpg" align="middle">
-	  <figcaption> This plot illustrates effect normalization on the filtered time series. The normalization is done using daily mean and daily standard deviation. Results of Ljung Box test, ACF and PACF confirm that the normalized series is stationary (refer to [report](https://github.com/wywongbd/EPFL-Time-Series/tree/master/project/report) folder for details).
+	  <figcaption> This plot illustrates effect normalization on the filtered time series. The normalization is done using daily mean and daily standard deviation. Results of Ljung Box test, ACF and PACF confirm that the normalized series is stationary (see report folder for more details).
 	  </figcaption>
 	</p>
 </figure>
